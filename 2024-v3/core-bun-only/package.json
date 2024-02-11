@@ -1,7 +1,10 @@
 {
   "name": "anthony-powell.com",
-  "module": "index.ts",
+  "module": "index.tsx",
   "type": "module",
+  "scripts": {
+    "dev": "bun --hotB index.tsx"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
