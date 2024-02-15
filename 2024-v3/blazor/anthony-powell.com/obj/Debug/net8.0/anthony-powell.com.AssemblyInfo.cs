@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("anthony-powell.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a38d1f16d8d13240a55dd54e489bc936cf04b70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b2e2eb677e2572d9e4dbad842805370a1474543")]
 [assembly: System.Reflection.AssemblyProductAttribute("anthony-powell.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("anthony-powell.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

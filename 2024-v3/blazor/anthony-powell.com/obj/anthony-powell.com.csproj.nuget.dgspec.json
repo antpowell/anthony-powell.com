@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazer\\anthony-powell.com\\anthony-powell.com.csproj": {}
+    "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazor\\anthony-powell.com\\anthony-powell.com.csproj": {}
   },
   "projects": {
-    "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazer\\anthony-powell.com\\anthony-powell.com.csproj": {
+    "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazor\\anthony-powell.com\\anthony-powell.com.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazer\\anthony-powell.com\\anthony-powell.com.csproj",
+        "projectUniqueName": "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazor\\anthony-powell.com\\anthony-powell.com.csproj",
         "projectName": "anthony-powell.com",
-        "projectPath": "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazer\\anthony-powell.com\\anthony-powell.com.csproj",
+        "projectPath": "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazor\\anthony-powell.com\\anthony-powell.com.csproj",
         "packagesPath": "C:\\Users\\powel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazer\\anthony-powell.com\\obj\\",
+        "outputPath": "C:\\Users\\powel\\Documents\\Engineering\\anthony-powell.com\\2024-v3\\blazor\\anthony-powell.com\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\powel\\AppData\\Roaming\\NuGet\\NuGet.Config"

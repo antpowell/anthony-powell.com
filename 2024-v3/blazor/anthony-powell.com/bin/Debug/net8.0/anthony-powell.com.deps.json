@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "anthony-powell.com/1.0.0": {
+        "runtime": {
+          "anthony-powell.com.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "anthony-powell.com/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
